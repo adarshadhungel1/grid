@@ -14,10 +14,17 @@
     gap: 12px;
     margin: auto 8% auto 8%;
 }
+
 .content{
     display: grid;
     grid-template-columns: 80% 20%;
     background-color: rgba(155, 154, 154, 0.959);
+}
+
+.sideitems{
+    display: grid;
+    grid-template-rows: 60% 40%;
+    grid-template-columns: 100%;
 }
 
 .projects{
