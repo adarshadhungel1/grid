@@ -49,13 +49,11 @@
 .announcements{
     display: grid;
     gap: 3px;
-    background-color: beige;
 }
 
 .trending{
     display: grid;
     gap: 3px;
-    background-color: beige;
 }
 
 .items{
@@ -67,11 +65,13 @@
 .announcement{
     height: 80px;
     border: solid red 1px;
+    background-color: beige;
 }
 
 .trend{
     height: 40px;
     border: solid red 1px;
+    background-color: beige;
 }
 
 input{
