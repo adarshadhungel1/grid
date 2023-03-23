@@ -61,20 +61,20 @@
 
 .items{
     height: 100px;
-    border: solid red 1px;
     background-color: beige;
+    border-radius: 15px;
 }
 
 .announcement{
     height: 80px;
-    border: solid red 1px;
     background-color: beige;
+    border-radius: 15px;
 }
 
 .trend{
     height: 40px;
-    border: solid red 1px;
     background-color: beige;
+    border-radius: 15px;
 }
 
 input{
