@@ -11,10 +11,13 @@
     display: flex;
     flex-direction: column;
     gap: 12px;
+    margin: auto 8% auto 8%;
 }
 .content{
     display: grid;
     grid-template-columns: 80% 20%;
+    background-color: rgba(155, 154, 154, 0.959);
+    justify-content:space-around;
 }
 
 .projects{
@@ -30,17 +33,20 @@
 .announcements{
     display: grid;
     gap: 3px;
+    background-color: beige;
 }
 
 .trending{
     display: grid;
     gap: 3px;
+    background-color: beige;
 }
 
 .items{
     height: 100px;
     width: 180px;
     border: solid red 1px;
+    background-color: beige;
 }
 
 .announcement{
@@ -53,6 +59,12 @@
     height: 40px;
     width: 120px;
     border: solid red 1px;
+}
+
+input{
+    width: 60%;
+    border-radius: 10px;
+    background-color: rgba(155, 154, 154, 0.959);
 }
 
 ul{
