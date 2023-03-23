@@ -1,13 +1,20 @@
 .container{
+    width: 100vw;
+    height: 100vh;
     display: grid;
     grid-template-columns: 25% 75%;
+    grid-template-rows: 8% 92%;
 }
 
 .dashboard{
     grid-row: 1/3;
     background-color: rgba(14, 64, 201, 0.959);
+    display: flex;
+    flex-direction: column;
 }
-
+.dbi{
+    margin-left: 20%;
+}
 .header{
     display: flex;
     flex-direction: column;
