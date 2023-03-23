@@ -17,7 +17,6 @@
     display: grid;
     grid-template-columns: 80% 20%;
     background-color: rgba(155, 154, 154, 0.959);
-    justify-content:space-around;
 }
 
 .projects{
