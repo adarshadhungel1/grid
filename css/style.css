@@ -24,6 +24,8 @@
     display: grid;
     gap: 3px;
     grid-template-columns: 1fr 1fr;
+    margin-left: 3%;
+    margin-right:3%;
 }
 
 .twolength{
