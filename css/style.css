@@ -68,6 +68,11 @@
     overflow: hidden;
 }
 
+.info{
+    margin-left: 15%;
+    margin-right: 15%;   
+}
+
 .announcement{
     height: 80px;
     background-color: beige;
