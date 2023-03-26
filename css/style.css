@@ -98,3 +98,16 @@ input{
     border-radius: 10px;
     background-color: rgba(155, 154, 154, 0.959);
 }
+
+.toprow{
+    display: flex;
+}
+
+.username{
+    display: flex;
+    align-items: center;
+}
+
+.username>svg{
+    width: 7%;
+}
