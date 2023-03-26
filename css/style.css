@@ -9,6 +9,7 @@
 .dashboard{
     grid-row: 1/3;
     background-color: rgba(14, 64, 201, 0.959);
+    overflow: hidden;
 }
 
 .dbi{
@@ -17,11 +18,15 @@
     justify-content: flex-start;
 }
 
-svg{
+h2>svg{
     width: 20%;
     margin-left: 12%;
 }
 
+h3>svg{
+    width: 15%;
+    margin-left: 12%;
+}
 .header{
     display: flex;
     flex-direction: column;
