@@ -9,8 +9,6 @@
 .dashboard{
     grid-row: 1/3;
     background-color: rgba(14, 64, 201, 0.959);
-    display: flex;
-    flex-direction: column;
 }
 
 .dbi{
@@ -20,8 +18,8 @@
 }
 
 svg{
-    width: 35%;
-    height: 35%
+    width: 20%;
+    margin-left: 12%;
 }
 
 .header{
@@ -53,6 +51,7 @@ svg{
 
 .twolength{
     grid-column: 1/3;
+    margin: 0px;
 }
 
 .announcements{
