@@ -63,18 +63,21 @@
     height: 100px;
     background-color: beige;
     border-radius: 15px;
+    overflow: hidden;
 }
 
 .announcement{
     height: 80px;
     background-color: beige;
     border-radius: 15px;
+    overflow: hidden;
 }
 
 .trend{
     height: 40px;
     background-color: beige;
     border-radius: 15px;
+    overflow: hidden;
 }
 
 input{
