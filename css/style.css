@@ -2,7 +2,7 @@
     min-width: 98vw;
     min-height: 98vh;
     display: grid;
-    grid-template-columns: 15% 85%;
+    grid-template-columns: 20% 80%;
     grid-template-rows: 8% 92%;
 }
 
