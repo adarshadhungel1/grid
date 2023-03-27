@@ -1,6 +1,4 @@
 .container{
-    min-width: 98vw;
-    min-height: 98vh;
     display: grid;
     grid-template-columns: 20% 80%;
     grid-template-rows: 8% 92%;
@@ -154,4 +152,8 @@ input{
 .username,.bigusername{
     font-weight: bold;
     font-size: 1.1rem;
+}
+
+body{
+    margin: 0px;
 }
